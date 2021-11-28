@@ -54,7 +54,7 @@ sections:
         image: images/service-2.svg
         content: |-
           - Courses in
-          - R
+          - R, Python, 
           - Brand identity
           - Design systems
           - Concept development
