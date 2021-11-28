@@ -28,7 +28,7 @@ sections:
           euismod nisi porta lorem mollis.
         actions:
           - label: Linkedin
-            url: 'https://twitter.com/'
+            url: 'https://www.linkedin.com/in/zane-troyer-72b5a6170/'
             style: icon
             icon: linkedin
             new_window: true
