@@ -57,6 +57,7 @@ sections:
             - R, Python, SQL, and git
             - Advanced Excel/Sheets
             - Tableau, PowerBI, Google Data Studio
+            - Google Analytics
           - Training tailored to fit business needs
           - Design systems
           - Concept development
