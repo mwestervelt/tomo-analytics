@@ -21,7 +21,7 @@ sections:
     col_number: three
     grid_items:
       - title: Zane Troyer
-        image: images/team-1.png
+        image: images/zane.jpeg
         subtitle: 'Co-Founder, Chief Data Scientist'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
