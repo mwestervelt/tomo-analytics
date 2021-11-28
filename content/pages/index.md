@@ -48,7 +48,7 @@ sections:
           - Custom data dashboards
           - Data science strategy
           - Research and insights
-          - Data engineerin
+          - Data engineering and architecture
           - Full-service data
       - title: Technical training
         image: images/service-2.svg
