@@ -36,11 +36,12 @@ sections:
           - Training tailored to fit business needs
       - title: Product strategy
         image: images/service-3.svg
-        content: |-
-          - Product vision and roadmapping
-          - Digital product design
-          - Demos and presentations
-          - Competitive analysis and research
+        content: |
+          *   Product vision and roadmapping
+          *   Digital product design
+          *   Demos and presentations
+          *   Competitive analysis and research
+          *   Process and workflow optimization
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
