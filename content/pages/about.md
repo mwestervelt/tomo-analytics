@@ -21,7 +21,7 @@ sections:
         image: images/zane.jpeg
         subtitle: 'Co-Founder, Chief Data Scientist'
         content: >-
-          Something about leading data science teams, Principal Data Scientist, 
+          Something about leading data science teams, Principal Data Scientist, sp
         actions:
           - label: Linkedin
             url: 'https://www.linkedin.com/in/zane-troyer-72b5a6170/'
