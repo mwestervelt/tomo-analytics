@@ -40,7 +40,7 @@ sections:
           aliquet nec ullamcorper sit.
         actions:
           - label: Linkedin
-            url: 'https://twitter.com/'
+            url: 'https://www.linkedin.com/in/mariel-westervelt/'
             style: icon
             icon: linkedin
             new_window: true
