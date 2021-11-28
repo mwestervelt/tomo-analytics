@@ -55,7 +55,7 @@ sections:
         content: |-
           - Courses in:
             - R, Python, SQL, and git
-          - Brand identity
+          - Training tailored to fit
           - Design systems
           - Concept development
           - Brand implementation and management
