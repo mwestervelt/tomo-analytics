@@ -33,8 +33,7 @@ sections:
         image: images/mar.jpeg
         subtitle: 'Co-Founder, CEO'
         content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
+          Mariel's background in 
         actions:
           - label: Linkedin
             url: 'https://www.linkedin.com/in/mariel-westervelt/'
