@@ -11,7 +11,7 @@ sections:
       turpis et nisi fermentum accumsan.
     # image: images/about.jpg
     # image_alt: Our team in the meeting room
-  - type: grid_section
+  - type: cta_section
     section_id: team
     title: The Team
     subtitle: An optional subtitle of the section
