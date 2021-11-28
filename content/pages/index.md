@@ -47,7 +47,7 @@ sections:
           - Data visualization
           - Custom data dashboards
           - Data strategy
-          - Custom insights
+          - Research and insights
           - Communication strategy
       - title: Technical training
         image: images/service-2.svg
