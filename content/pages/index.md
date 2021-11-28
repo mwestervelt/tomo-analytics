@@ -65,7 +65,7 @@ sections:
           - Product vision and roadmapping
           - Digital product design
           - Demos and presentations
-          -
+          - 
 #   - type: testimonials_section
 #     section_id: testimonials
 #     title: Testimonials
