@@ -2,7 +2,7 @@
     "title": "Tomo Analytics",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "red",
     "base_font": "fraunces",
     "header": {
         "title": "Tomo Analytics",
