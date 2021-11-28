@@ -53,7 +53,7 @@ sections:
       - title: Technical training
         image: images/service-2.svg
         content: |-
-          - Courses in: 
+          - Courses in: |-
           - R, Python, SQL, and git
           - Brand identity
           - Design systems
