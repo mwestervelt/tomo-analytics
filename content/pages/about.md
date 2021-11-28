@@ -39,7 +39,7 @@ sections:
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
         actions:
-          - label: Twitter
+          - label: Linkedin
             url: 'https://twitter.com/'
             style: icon
             icon: linkedin
