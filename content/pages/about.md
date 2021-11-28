@@ -15,7 +15,7 @@ sections:
     section_id: team
     title: The Team
     subtitle: An optional subtitle of the section
-        content: >
+    content: >
       Say hello at <hello@tomoanalytics.com> or tell us more about your project
       by getting started below.
     actions:
