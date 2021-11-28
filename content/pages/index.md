@@ -54,7 +54,7 @@ sections:
         image: images/service-2.svg
         content: |-
           - Courses in
-          - Naming
+          - R
           - Brand identity
           - Design systems
           - Concept development
