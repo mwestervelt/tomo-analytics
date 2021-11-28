@@ -46,7 +46,7 @@ sections:
         content: |-
           - Research and insight
           - Business innovation and transformation
-          - Brand and strategy
+          - Data visualization
           - Brand portfolio strategy
           - Design strategy
           - Digital and experience strategy
