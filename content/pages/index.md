@@ -64,7 +64,7 @@ sections:
         content: |-
           - Product vision and roadmapping
           - Digital product design
-          - Environmental and retail design
+          - Product 
           - Packaging design
           - Art direction
           - Communication design
