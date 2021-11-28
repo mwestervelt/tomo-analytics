@@ -12,8 +12,8 @@ sections:
 
       In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
       turpis et nisi fermentum accumsan.
-    image: images/about.jpg
-    image_alt: Our team in the meeting room
+    # image: images/about.jpg
+    # image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
     title: The Team
