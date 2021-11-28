@@ -56,7 +56,7 @@ sections:
         default_value: Please select
         options:
           - Data
-          - Design
+          - Product
           - Product
       - input_type: textarea
         name: message
