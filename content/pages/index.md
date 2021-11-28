@@ -59,10 +59,6 @@ sections:
             - Tableau, PowerBI, Google Data Studio
             - Google Analytics
           - Training tailored to fit business needs
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
       - title: Product strategy
         image: images/service-3.svg
         content: |-
