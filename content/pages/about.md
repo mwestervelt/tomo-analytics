@@ -11,21 +11,11 @@ sections:
       turpis et nisi fermentum accumsan.
     # image: images/about.jpg
     # image_alt: Our team in the meeting room
-  - type: cta_section
+  - type: grid_section
     section_id: team
     title: The Team
     subtitle: An optional subtitle of the section
-    content: >
-      Say hello at <hello@tomoanalytics.com> or tell us more about your project
-      by getting started below.
-    actions:
-      - label: Let's start
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
-    col_number: one
+    col_number: two
     grid_items:
       - title: Zane Troyer
         image: images/zane.jpeg
