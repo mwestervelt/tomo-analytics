@@ -33,7 +33,7 @@ sections:
         image: images/mar.jpeg
         subtitle: 'Co-Founder, CEO'
         content: >-
-          Mariel's background in software development and product management gives her the perfect mix of expertise to lead and influence 
+          Mariel's background in software development and product management gives her the perfect mix of expertise to lead and influence her 
         actions:
           - label: Linkedin
             url: 'https://www.linkedin.com/in/mariel-westervelt/'
