@@ -55,7 +55,7 @@ sections:
         content: |-
           - Courses in:
             - R, Python, SQL, and git
-            - Advanced Excel
+            - Advanced Excel/Sheets
           - Training tailored to fit business needs
           - Design systems
           - Concept development
