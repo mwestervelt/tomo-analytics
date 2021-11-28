@@ -63,7 +63,7 @@ sections:
         image: images/service-3.svg
         content: |-
           - Product vision and roadmapping
-          - Service design
+          - Digital product design
           - Environmental and retail design
           - Packaging design
           - Art direction
