@@ -33,7 +33,7 @@ sections:
         image: images/mar.jpeg
         subtitle: 'Co-Founder, CEO'
         content: >-
-          Mariel's background in software development and product management 
+          Mariel's background in software development and product management gives her 
         actions:
           - label: Linkedin
             url: 'https://www.linkedin.com/in/mariel-westervelt/'
