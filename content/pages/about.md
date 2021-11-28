@@ -30,7 +30,7 @@ sections:
           - label: Twitter
             url: 'https://twitter.com/'
             style: icon
-            icon: twitter
+            icon: linkedin
             new_window: true
       - title: Mariel Troyer
         image: images/team-2.png
