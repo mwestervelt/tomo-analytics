@@ -46,7 +46,7 @@ sections:
         content: |-
           - Data visualization
           - Custom data dashboards
-          - Design strategy
+          - Data strategy
           - Digital and experience strategy
           - Communication strategy
       - title: Technical training
