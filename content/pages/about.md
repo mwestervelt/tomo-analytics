@@ -27,7 +27,7 @@ sections:
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
         actions:
-          - label: Twitter
+          - label: Linkedin
             url: 'https://twitter.com/'
             style: icon
             icon: linkedin
