@@ -22,7 +22,7 @@ sections:
     grid_items:
       - title: Zane Troyer
         image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: 'Co-Founder, Chief Data Scient'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
