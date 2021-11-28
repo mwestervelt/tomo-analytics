@@ -21,7 +21,7 @@ sections:
         image: images/zane.jpeg
         subtitle: 'Co-Founder, Chief Data Scientist'
         content: >-
-          Zane has been leading data science teams for over 5 years, and currently serves as Principal Data Scientist for Optum Analytics. A frequent speaker at data conferences, Zane has wide ranging experience in the technology, energy, and healthcare industries. He enjoys teaching 
+          Zane has been leading data science teams for over 5 years, and currently serves as Principal Data Scientist for Optum Analytics. A frequent speaker at data conferences, Zane has wide ranging experience in the technology, energy, and healthcare industries. He enjoys teaching data science 
         actions:
           - label: Linkedin
             url: 'https://www.linkedin.com/in/zane-troyer-72b5a6170/'
