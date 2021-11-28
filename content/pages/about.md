@@ -54,7 +54,7 @@ sections:
       position you are interested in.
     image: images/cta-about.svg
     image_alt: Illustration
-    bg_color: light
+    bg_color: dark
 seo:
   title: About Us
   description: This is the about us page
