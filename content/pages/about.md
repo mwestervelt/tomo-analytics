@@ -15,7 +15,7 @@ sections:
     section_id: team
     title: The Team
     subtitle: An optional subtitle of the section
-    col_number: two
+    col_number: one
     grid_items:
       - title: Zane Troyer
         image: images/zane.jpeg
