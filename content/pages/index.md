@@ -47,7 +47,7 @@ sections:
           - Research and insight
           - Business innovation and transformation
           - Data visualization
-          - Brand portfolio strategy
+          - Custom data dashboards
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
