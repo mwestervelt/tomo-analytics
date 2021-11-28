@@ -18,7 +18,7 @@
             {
                 "label": "Work",
                 "url": "/portfolio/",
-                "style": "icon"
+                "style": "button"
             },
             {
                 "label": "Blog",
