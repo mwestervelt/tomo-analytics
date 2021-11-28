@@ -33,7 +33,7 @@ sections:
             icon: linkedin
             new_window: true
       - title: Mariel Troyer
-        image: images/team-2.png
+        image: images/mar.jpeg
         subtitle: 'Co-Founder, CEO'
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
