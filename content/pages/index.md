@@ -44,8 +44,6 @@ sections:
       - title: Data solutions
         image: images/service-1.svg
         content: |-
-          - Research and insight
-          - Business innovation and transformation
           - Data visualization
           - Custom data dashboards
           - Design strategy
