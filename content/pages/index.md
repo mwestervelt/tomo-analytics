@@ -64,7 +64,7 @@ sections:
         content: |-
           - Product vision and roadmapping
           - Digital product design
-          - Product demos and presentations
+          - Demos and presentations
           - Packaging design
           - Art direction
           - Communication design
