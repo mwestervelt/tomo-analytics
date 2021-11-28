@@ -48,7 +48,7 @@ sections:
           - Custom data dashboards
           - Data strategy
           - Research and insights
-          - Communication strategy
+          - Full-service
       - title: Technical training
         image: images/service-2.svg
         content: |-
