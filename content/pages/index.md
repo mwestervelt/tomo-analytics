@@ -45,7 +45,7 @@ sections:
         image: images/service-1.svg
         content: |-
           - Data visualization
-          - Custom data dashboards
+          - Custom data dashboards/reporting
           - Data science strategy
           - Research and insights
           - Data engineering and architecture
