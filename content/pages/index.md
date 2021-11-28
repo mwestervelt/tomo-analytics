@@ -56,7 +56,7 @@ sections:
           - Courses in:
             - R, Python, SQL, and git
             - Advanced Excel/Sheets
-            - 
+            - Tableau, PowerBI
           - Training tailored to fit business needs
           - Design systems
           - Concept development
