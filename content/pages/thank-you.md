@@ -4,8 +4,7 @@ hide_title: false
 sections:
   - type: hero_section
     content: >-
-      Thank you for your message. We will be in touch shortly. Have a great
-      day!
+      Thank you for your message. We will be in touch shortly. Have a great day!
     actions:
       - label: Back to homepage
         url: /
