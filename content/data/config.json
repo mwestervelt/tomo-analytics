@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://tomo-analytics-2d3d4.netlify.app"
 }
