@@ -55,7 +55,7 @@ sections:
         content: |-
           - Courses in:
             - R, Python, SQL, and git
-          - Training tailored to fit
+          - Training tailored to fit business needs
           - Design systems
           - Concept development
           - Brand implementation and management
