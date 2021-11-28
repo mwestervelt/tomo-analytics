@@ -8,7 +8,7 @@ sections:
     content: >
       We are a data science, analytics, and product practice. We work closely
       with you, your team to deliver valuable data solutions, business insights,
-      and technical training – enabling your organization to grow. [Let's
+      and technical training – - enabling your organization to grow. [Let's
       talk](/contact/).
   - type: grid_section
     section_id: services
