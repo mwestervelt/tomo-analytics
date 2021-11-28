@@ -44,7 +44,6 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      
   - type: cta_section
     section_id: cta
     title: Become a Team Player
