@@ -46,7 +46,7 @@ sections:
         content: |-
           - Data visualization
           - Custom data dashboards
-          - Data strategy
+          - Data science strategy
           - Research and insights
           - Full-service data
       - title: Technical training
