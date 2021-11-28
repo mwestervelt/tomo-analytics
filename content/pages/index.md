@@ -65,7 +65,7 @@ sections:
           - Product vision and roadmapping
           - Digital product design
           - Demos and presentations
-          - 
+          - Competitive analysis and research
 #   - type: testimonials_section
 #     section_id: testimonials
 #     title: Testimonials
