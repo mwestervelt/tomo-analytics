@@ -53,7 +53,7 @@ sections:
       - title: Technical training
         image: images/service-2.svg
         content: |-
-          - R
+          - Courses in 
           - Naming
           - Brand identity
           - Design systems
