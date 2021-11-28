@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Tomo 
+      Tomo Analytics was born
 
 
       In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
