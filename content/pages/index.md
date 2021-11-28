@@ -62,7 +62,7 @@ sections:
       - title: Product strategy
         image: images/service-3.svg
         content: |-
-          - Digital product design
+          - Product vision and roadmapping
           - Service design
           - Environmental and retail design
           - Packaging design
