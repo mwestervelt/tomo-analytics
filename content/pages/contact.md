@@ -57,7 +57,7 @@ sections:
         options:
           - Data
           - Product
-          - Product
+          - Technical
       - input_type: textarea
         name: message
         label: Message
